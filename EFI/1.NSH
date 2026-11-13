@@ -1,0 +1,1 @@
+AfuEfix64.efi BKHD-1140N4L-F1-0130.rom /B /P /X /N /K
